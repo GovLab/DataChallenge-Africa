@@ -34,6 +34,8 @@ new Vue({
       DomainData: [],
       QuestionData: [],
       ActionableInsightsData: [],
+      showMessage: true,
+      index_active:0,
       apiURL: 'https://directus.thegovlab.com/datachallenge_africa',
 
     }
@@ -45,6 +47,8 @@ new Vue({
     this.fetchDomains();
     this.fetchQuestions();
     this.fetchActionableInsights();
+    this.toggleMessage();
+  
   },
   methods: {
 
@@ -142,6 +146,10 @@ new Vue({
     self.ActionableInsightsData = data.data;
   })
 .catch(error => console.error(error));
+    },
+    toggleMessage (index) {
+      this.index_active = index;
+    	this.showMessage = !this.showMessage
     }
 }
 });

@@ -101,6 +101,10 @@
     <div class="section-box">
       <h1>What are we looking for?</h1>
       <div v-html="indexData[0].domains_text"></div>
+      
+    </div>
+    <div style="text-align: center;">
+      <img :src="indexData[0].domain_graphic.data.full_url">
     </div>
     <div class="section-box domain-section">
     <div class="domain_information topic-row">
@@ -118,6 +122,7 @@
       <div class="domain-table topic-row">
         <div class="domain-row topic-column" v-for="insight in insightData">
           <div class="domain-padding">
+            <img :src="insight.insight_icon.data.full_url">
           <h3>{{insight.insight_title}}</h3>
           <p>{{insight.insight_description}}</p>
         </div>
@@ -128,9 +133,13 @@
     <div class="section-box">
       <div class="faq-section">
         <h1>Frequently Asked Questions</h1>
-        <div class="faq-item" v-for="question in QuestionData">
-          <h2>{{question.question_title}}</h2>
-          <div v-html="question.answer"></div>
+     
+        <div class="faq-item" v-for="(question,index) in QuestionData">
+          
+          <button @click="toggleMessage(index)" class="accordion" ><h2>{{question.question_title}}</h2><i class="material-icons down"></i></button>
+          <div v-if="showMessage && index_active==index" class="panel" v-html="question.answer">
+            
+          </div>
         </div>
       </div>
     </div>
