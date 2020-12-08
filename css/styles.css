@@ -220,7 +220,7 @@ justify-content: center;
   text-decoration: none;
 }
 .lang-select a.active{
-  color: var(--accent-color);
+  color: var(--yellow);
   font-weight:600;
 }
 
