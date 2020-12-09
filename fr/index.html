@@ -91,8 +91,8 @@
     </div>
 
     <div class="main-buttons">
-      <a :href="indexData[0].report_url" class="button home-btn" target="_blank">TÉLÉCHARGER LE RFP</a>
-      <a :href="indexData[0].apply_now_form" class="button home-btn" target="_blank">S'INSCRIRE MAINTENANT</a>
+      <a v-if="indexData[0].report_url" :href="indexData[0].report_url" class="button home-btn" target="_blank">TÉLÉCHARGER LE RFP</a>
+      <a v-if="indexData[0].apply_now_form" :href="indexData[0].apply_now_form" class="button home-btn" target="_blank">S'INSCRIRE MAINTENANT</a>
     </div>
 
     <div class="section-box">
