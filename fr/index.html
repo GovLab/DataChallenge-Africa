@@ -37,7 +37,7 @@
         </a> -->
       </div>
     </div>
-    <a class="top_logo" href="index.html"><img id="afd-logo-style" src="../images/AFD_embleme_horizontale_designation_BLANC.svg" alt="UNDP Logo"><img
+    <a class="top_logo" href="index.html"><img id="afd-logo-style" src="../images/AFD_embleme_horizontale_designation_BLANC.svg" alt="UNDP Logo"><img id="expertise-logo" src="../images/logo-expertise-france.png" alt="UNDP Logo"><img
       src="../images/the-govlab-logo-white.png" alt="The GovLab"></a>
 
     <!-- Navigation links (hidden by default) -->
@@ -78,6 +78,14 @@
 
 
   <div class="page-body" id="home-page">
+    <div id="alert-banner" v-for="alert in alertData" v-if="alert.live == true" class="alert-section" >
+      <h3>{{alert.alert_title_fr}}</h3>
+      <div v-html="alert.description_fr"></div>
+      <div class="main-button">
+          <a v-if="alert.link" target="_blank":href="alert.link">{{alert.button_text_fr}}</a>
+        <a id="close-button" onclick="close_alert()">Close</a>
+      </div>
+    </div>
     <div class="section-box">
       <div class="callout" v-html="indexData[0].call_out_box_fr"></div>
     </div>
@@ -145,7 +153,7 @@
       </div>
     </div>
     <div class="section-box">
-      <h1>Other partners and funders</h1>
+      <h1>D'AUTRES PARTENAIRES ET BAILLEURS DE FONDS</h1>
       <div v-html="indexData[0].partners_fr"></div>
     </div>
   </div>

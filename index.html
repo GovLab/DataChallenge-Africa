@@ -37,7 +37,7 @@
         </a> -->
       </div>
     </div>
-    <a class="top_logo" href="index.html"><img id="afd-logo-style" src="images/AFD_embleme_horizontale_designation_BLANC.svg" alt="UNDP Logo"><img
+    <a class="top_logo" href="index.html"><img id="afd-logo-style" src="images/AFD_embleme_horizontale_designation_BLANC.svg" alt="UNDP Logo"><img id="expertise-logo" src="images/logo-expertise-france.png" alt="UNDP Logo"><img
         src="images/the-govlab-logo-white.png" alt="The GovLab"></a>
 
     <!-- Navigation links (hidden by default) -->
@@ -78,6 +78,14 @@
 
 
   <div class="page-body" id="home-page">
+    <div id="alert-banner" v-for="alert in alertData" v-if="alert.live == true" class="alert-section" >
+      <h3>{{alert.alert_title}}</h3>
+      <div v-html="alert.description"></div>
+      <div class="main-button">
+          <a v-if="alert.link" target="_blank":href="alert.link">{{alert.button_text}}</a>
+        <a id="close-button" onclick="close_alert()">Close</a>
+      </div>
+    </div>
     <div class="section-box">
       <div class="callout" v-html="indexData[0].call_out_box"></div>
     </div>
@@ -196,6 +204,12 @@
       alert_msg.style.display = "none";
     });
   });
+</script>
+<script>
+  function close_alert() {
+    var x = document.getElementById("alert-banner");
+    x.style.display = "none";
+  }
 </script>
 <script>
   /* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
