@@ -190,16 +190,25 @@ justify-content: center;
 }
 }
 @media screen and (min-width: 320px) and (max-width: 768px){
+  .topnav {
+    overflow: hidden;
+    background-color: var(--dark-grey);
+    height: 30vh;
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+  }
   .top_logo {
     padding: 0 !important;
-    width:50%;
+    width:100%;
+    flex-direction: column-reverse;
     }
     .top_logo img{
       width:20%;
       }
     .lang-select{
-      width: 20%;
-      justify-content: flex-start;
+      width: 100%;
+      justify-content: center;
       margin-right:0;
     }
     .top_logo img#undp-logo-style{

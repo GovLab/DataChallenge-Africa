@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
 
@@ -72,7 +72,7 @@
 
   <div class="row top-section">
     <h1><span class="bold">#</span>DATA<span class="bold">4</span>COVID19 </h1>
-    <h4>Africa Challenge</h4>
+    <h4>LE DÉFI DE L'AFRIQUE</h4>
   </div>
 
 
@@ -83,12 +83,12 @@
     </div>
 
     <div class="main-buttons">
-      <a :href="indexData[0].report_url" class="button home-btn" target="_blank">Download the request for proposals</a>
-      <a :href="indexData[0].apply_now_form" class="button home-btn" target="_blank">Apply Now</a>
+      <a :href="indexData[0].report_url" class="button home-btn" target="_blank">TÉLÉCHARGER LE RFP</a>
+      <a :href="indexData[0].apply_now_form" class="button home-btn" target="_blank">S'INSCRIRE MAINTENANT</a>
     </div>
 
     <div class="section-box">
-      <h1>WHY? The Need for Actionable Insights </h1>
+      <h1>POURQUOI ? La nécessité d'une action </h1>
       <div v-html="indexData[0].actionable_insights_text_fr"></div>
       <div class="actionable_insights">
         <a title="Open Link" class="actionable_insights_list_fr" v-for="action_item in ActionableInsightsData"
@@ -100,7 +100,7 @@
       <div v-html="indexData[0].opportunity_text_box_fr"></div>
     </div>
     <div class="section-box">
-      <h1>What are we looking for?</h1>
+      <h1>Que recherchons-nous?</h1>
       <div v-html="indexData[0].domains_text_fr"></div>
       
     </div>
@@ -133,7 +133,7 @@
 
     <div class="section-box">
       <div class="faq-section">
-        <h1>Frequently Asked Questions</h1>
+        <h1>Questions fréquentes</h1>
      
         <div class="faq-item" v-for="(question,index) in QuestionData">
           
@@ -153,12 +153,12 @@
     <div class="footer-row">
 
       <div class="footer-col">
-        <h4>CONTACT US</h4>
+        <h4>Nous contacter</h4>
 
         <a><i class="e-social-media-item fa fa-envelope"></i>&nbsp info@thegovlab.org</a>
       </div>
       <div class="footer-col">
-        <h4>FOLLOW US</h4>
+        <h4>Suivez nous</h4>
 
         <p> <b> The GovLab</b>&nbsp <a href="https://twitter.com/TheGovLab" target="_blank"><i
               class="e-social-media-item fa fa-twitter" aria-hidden="true"></i></a>
@@ -169,10 +169,9 @@
       </div>
     </div>
     <div class="footer-row privacy-statement">
-      <p>The GovLab is committed to respecting your privacy and abides by all the practices and principles outlined by
-        New York University in its Digital Privacy Statement. For more information, please review the full statement <a
-          href="https://www.nyu.edu/footer/copyright-and-fair-use/digital-privacy-statement.html"
-          target="_blank">here.</a></p>
+      <p>The GovLab s'engage à respecter votre vie privée et se conforme à toutes les pratiques et principes énoncés par New York University dans sa déclaration de confidentialité numérique. Pour plus d'informations, veuillez consulter la déclaration complète <a
+        href="https://www.nyu.edu/footer/copyright-and-fair-use/digital-privacy-statement.html"
+        target="_blank">ici.</a>.</p>
     </div>
   </footer>
   <div class="copyright">
