@@ -2004,7 +2004,12 @@ text-align: center;
   color: var(--grey8);
 }
 .grid.form{
-  padding: 0rem 16rem 2rem 16rem;
+  padding: 2rem 10rem;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--grey05);
 }
 .grid.form h4{
   font-weight: 400;
@@ -2015,7 +2020,7 @@ text-align: center;
   flex-direction:column;
   align-items: flex-start;
   justify-content: left;
-  padding: 4rem 16rem 2rem 16rem;
+  padding: 4rem 0rem 0rem 0rem;
 }
 .custom-form h4{
   margin-bottom:0px;
@@ -2036,6 +2041,21 @@ input[type=text]{
   background-color:var(--grey05);
   border-radius: 0px;
   box-sizing: border-box;
+}
+input[type=email]{
+  width: 100%;
+  padding: 10px 10px;
+  font-size: 1rem;
+  margin: 0px 0px 0px 0px;
+  display: inline-block;
+  border: none;
+  color: var(--grey8);
+  background-color:var(--grey05);
+  border-radius: 0px;
+  box-sizing: border-box;
+}
+.mc-field-group{
+  margin: 20px 0;
 }
 #long-answer{
   width: 100%;
@@ -2059,6 +2079,15 @@ input[type=checkbox], input[type=radio]{
 }
 label{
   color: var(--grey8);
+}
+input[type=submit]{
+  border: 0px solid black;
+  margin: 20px 0px 0px 0px;
+  background-color: var(--main-color);
+  color:#ffffff;
+  width: 150px;
+  padding: 10px 0;
+  font-size: 1rem
 }
 .submit-button{
   border: 0px solid black;
