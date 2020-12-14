@@ -122,12 +122,13 @@
     </div>
     <div class="section-box">
       <h1>Que recherchons-nous?</h1>
+      <!-- <div style="text-align: center;">
+        <img :src="indexData[0].domain_graphic.data.full_url">
+      </div> -->
       <div v-html="indexData[0].domains_text_fr"></div>
       
     </div>
-    <div style="text-align: center;">
-      <img :src="indexData[0].domain_graphic.data.full_url">
-    </div>
+
     <div class="section-box domain-section">
     <div class="domain_information topic-row">
       <div class="domain-item topic-column" v-for="domain_item in DomainData">
