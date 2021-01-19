@@ -155,6 +155,17 @@
 
     <div class="section-box">
       <div class="faq-section">
+        <h1>Key Information</h1>
+     
+        <div class="faq-item" v-for="(question,index) in KeyInformationData">
+          
+          <button @click="toggleMessage(index)" class="accordion" ><h2>{{question.question_title_fr}}</h2><i class="material-icons down"></i></button>
+          <div v-if="showMessage && index_active==index" class="panel" v-html="question.answer_fr">
+            
+          </div>
+        </div>
+      </div>
+      <div v-if="QuestionData.length > 0" class="faq-section">
         <h1>Questions fréquentes</h1>
      
         <div class="faq-item" v-for="(question,index) in QuestionData">
