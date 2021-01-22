@@ -56,9 +56,9 @@
     <!-- Navigation links (hidden by default) -->
 
     <div class='lang-select'>
-      <a style="padding: 15px 5px" href="../index.html">EN</a>
+      <a style="padding: 15px 5px" href="../documents.html">EN</a>
       <p style="color:#ffffff" >|</p>
-      <a style="padding: 15px 5px" href="index.html" class="active">FR</a>
+      <a style="padding: 15px 5px" href="#" class="active">FR</a>
     </div>
   </div>
   <!-- <div id="myLinks">
@@ -99,89 +99,14 @@
         <a id="close-button" onclick="close_alert()">Close</a>
       </div>
     </div>
-    <div class="section-box">
-      <div class="callout" v-html="indexData[0].call_out_box_fr"></div>
+    <div class="section-box key-docs">
+      <h1>Documents clés</h1>
+      <ul>
+        <li v-for="document in DocuData" v-if="document.language=='1'"><a :href="document.document_pdf.data.full_url">{{document.document_title}}</a>
+        </li>
+      </ul>
     </div>
 
-    <div class="main-buttons">
-      <a v-if="indexData[0].report_url_fr" :href="indexData[0].report_url_fr" class="button home-btn" target="_blank">TÉLÉCHARGER LE RFP</a>
-      <a href="documents.html" class="button home-btn" target="_blank">Documents clés</a>
-      <a v-if="indexData[0].apply_now_form_fr" :href="indexData[0].apply_now_form_fr" class="button home-btn" target="_blank">S'INSCRIRE MAINTENANT</a>
-    </div>
-
-    <div class="section-box">
-      <h1>POURQUOI ? La nécessité d'une action </h1>
-      <div v-html="indexData[0].actionable_insights_text_fr"></div>
-      <div class="actionable_insights">
-        <a title="Open Link" class="actionable_insights_list_fr" v-for="action_item in ActionableInsightsData"
-          :href="action_item.insight_url">
-          <i class="e-social-media-item fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp &nbsp &nbsp<span
-            v-html="action_item.insight_text_fr"></span>
-        </a>
-      </div>
-      <div v-html="indexData[0].opportunity_text_box_fr"></div>
-    </div>
-    <div class="section-box">
-      <h1>Que recherchons-nous?</h1>
-      <!-- <div style="text-align: center;">
-        <img :src="indexData[0].domain_graphic.data.full_url">
-      </div> -->
-      <div v-html="indexData[0].domains_text_fr"></div>
-      
-    </div>
-
-    <div class="section-box domain-section">
-    <div class="domain_information topic-row">
-      <div class="domain-item topic-column" v-for="domain_item in DomainData">
-        <div class="domain-padding">
-        <h2>{{domain_item.domain_title_fr}}</h2>
-        <div v-html="domain_item.domain_list_fr"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-    <div class="section-box">
-      <div v-html="indexData[0].insights_type_text_fr"></div>
-    </div>
-      <div class="domain-table topic-row">
-        <div class="domain-row topic-column" v-for="insight in insightData">
-          <div class="domain-padding">
-            <img :src="insight.insight_icon.data.full_url">
-          <h3>{{insight.insight_title_fr}}</h3>
-          <p>{{insight.insight_description_fr}}</p>
-        </div>
-        </div>
-      </div>
-
-
-    <div class="section-box">
-      <div class="faq-section">
-        <h1>Informations importantes</h1>
-     
-        <div class="faq-item" v-for="(question,index) in KeyInformationData">
-          
-          <button @click="toggleMessage(index)" class="accordion" ><h2>{{question.question_title_fr}}</h2><i class="material-icons down"></i></button>
-          <div v-if="showMessage && index_active==index" class="panel" v-html="question.answer_fr">
-            
-          </div>
-        </div>
-      </div>
-      <div v-if="QuestionData.length > 0" class="faq-section">
-        <h1>Questions et Réponses</h1>
-     
-        <div class="faq-item" v-for="(question,index) in QuestionData">
-          
-          <button  v-if="question.question_title_fr"  @click="toggleMessage(index)" class="accordion" ><h2>{{question.question_title_fr}}</h2><i class="material-icons down"></i></button>
-          <div v-if="showMessage && index_active==index" class="panel" v-html="question.answer_fr">
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="section-box">
-      <h1>D'AUTRES PARTENAIRES ET BAILLEURS DE FONDS INTÉRESSÉS ?</h1>
-      <div v-html="indexData[0].partners_fr"></div>
-    </div>
   </div>
   <div id="form" class="grid form">
   

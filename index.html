@@ -105,6 +105,7 @@
 
     <div class="main-buttons">
       <a v-if="indexData[0].report_url" :href="indexData[0].report_url" class="button home-btn" target="_blank">Download the request for proposals</a>
+      <a href="documents.html" class="button home-btn" target="_blank">Key documents</a>
       <a v-if="indexData[0].apply_now_form" :href="indexData[0].apply_now_form" class="button home-btn" target="_blank">Apply Now</a>
     </div>
 
@@ -169,7 +170,7 @@
     </div>
     <div v-if="QuestionData.length > 0" class="section-box">
       <div class="faq-section">
-        <h1>Frequently Asked Questions</h1>
+        <h1>Questions and Answers</h1>
      
         <div class="faq-item" v-for="(question,index) in QuestionData">
           
