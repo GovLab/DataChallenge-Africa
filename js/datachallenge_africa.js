@@ -37,6 +37,7 @@ new Vue({
       ActionableInsightsData: [],
       alertData: [],
       DocuData: [],
+      privacyData:[],
       showMessage: true,
       index_active:0,
       apiURL: 'https://directus.thegovlab.com/datachallenge_africa',
@@ -54,7 +55,7 @@ new Vue({
     this.fetchDocuments();
     this.fetchActionableInsights();
     this.toggleMessage();
-  
+    this.fetchPrivacy();
   },
   methods: {
 
@@ -74,6 +75,25 @@ new Vue({
   ).then(data => {
 
     self.indexData = data.data;
+  })
+.catch(error => console.error(error));
+    },
+    fetchPrivacy() {
+      self = this;
+      const client = new DirectusSDK({
+        url: "https://directus.thegovlab.com/",
+        project: "datachallenge_africa",
+        storage: window.localStorage
+      });
+
+      client.getItems(
+  'privacy_policy',
+  {
+    fields: ['*.*']
+  }
+  ).then(data => {
+
+    self.privacyData = data.data;
   })
 .catch(error => console.error(error));
     },
