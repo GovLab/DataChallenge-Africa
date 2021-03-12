@@ -418,6 +418,9 @@ height: 40vh;
  .page-body{
    padding: 0rem 0rem;
  }
+ .section-box.privacy-policy{
+  padding: 2rem 15rem;
+ }
  .page-body h1{
    font-weight: 600;
    margin-top:0;
