@@ -70,12 +70,19 @@
 
 
   <div class="page-body" id="home-page">
-    <div id="alert-banner" v-for="alert in alertData" v-if="alert.live == true" class="alert-section" >
+    <div id="alert-banner" v-for="alert in alertData" v-if="alert.live == true && alert.cookie_banner == false" class="alert-section" >
       <h3>{{alert.alert_title}}</h3>
       <div v-html="alert.description"></div>
       <div class="main-button">
           <a v-if="alert.link" target="_blank":href="alert.link">{{alert.button_text}}</a>
         <a id="close-button" onclick="close_alert()">Close</a>
+      </div>
+    </div>
+    <div id="cookie-policy" v-for="alert in alertData" v-if="alert.live == true && alert.cookie_banner == true"  class="alert-section cookies" >
+      <div class="cookie-description" v-html="alert.description"></div>
+      <div class="main-button cookie-button">
+          <a v-if="alert.link" target="_blank":href="alert.link">{{alert.button_text}}</a>
+          <a id="close-button" onclick="close_alert()">I Accept</a>
       </div>
     </div>
     <div class="section-box privacy-policy">
