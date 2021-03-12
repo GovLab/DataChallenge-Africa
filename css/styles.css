@@ -446,7 +446,13 @@ color: var(--light-grey);
   line-height: 1.5;
   color: var(--light-grey);
    }
-
+   .page-body ul{
+    font-weight: 300;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: var(--light-grey);
+     }
+  
  .page-body a{
    color: var(--light-grey);
    text-decoration: none;
