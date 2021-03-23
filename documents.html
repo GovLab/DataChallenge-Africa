@@ -105,7 +105,7 @@
       <div class="cookie-description" v-html="alert.description"></div>
       <div class="main-button cookie-button">
           <a v-if="alert.link" target="_blank":href="alert.link">{{alert.button_text}}</a>
-          <a id="close-button" onclick="close_alert()">I Accept</a>
+          <a id="close-button" onclick="close_cookie()">I Accept</a>
       </div>
     </div>
 
@@ -211,6 +211,12 @@
 <script>
   function close_alert() {
     var x = document.getElementById("alert-banner");
+    x.style.display = "none";
+  }
+</script>
+<script>
+  function close_cookie() {
+    var x = document.getElementById("cookie-policy");
     x.style.display = "none";
   }
 </script>
