@@ -1,6 +1,8 @@
 :root {
   --main-color: #28275A;
   --main-color-fade: #28275a2d;
+  --theme-light-yellow: #f1d54b18;
+  --theme-dark-brown:#A78E20;
   --theme-dark-yellow: #818027;
   --theme-dark-green: #227285;
   --theme-dark-pink: #900072;
@@ -274,7 +276,95 @@ justify-content: center;
   background-color: #991234;
   color: #ffffff;
   cursor: pointer;
-}  
+} 
+.winners-map img{
+  height: 400px;
+} 
+.winners-map{
+  text-align: center;
+}
+.topic-row{
+  display: flex;
+  flex-direction: column ;
+  max-width: none;
+margin-left: auto;
+margin-right: auto;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+-webkit-flex-flow: column wrap;
+-ms-flex-flow: column wrap;
+flex-flow: column wrap;
+}
+.topic-column{
+  -webkit-flex: 0 0 50%;
+-ms-flex: 0 0 50%;
+flex: 0 0 50%;
+max-width: 50%;
+}
+.topic-column.description{
+  background-color: var(--main-color);
+}
+.winner-wrap{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem 4rem;
+  height:350px;
+}
+.winner-items p{
+  margin:0;
+  font-weight: 600;
+}
+.winner-wrap.winner-items{
+  background-color: var(--theme-light-yellow);
+border: 0.5px solid var(--theme-dark-brown);
+
+}
+.topic-column .winner-title{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+.page-body .topic-column .winner-title h1{
+  text-transform: uppercase;
+  font-weight: 200;
+  color:var(--yellow);
+  font-size: 2rem;
+}
+.page-body .topic-column .winner-title p{
+  color: var(--yellow);
+  font-weight: 200;
+  font-size: 1rem;
+}
+.page-body .winner-items h1{
+  text-transform: none;
+}
+.page-body .topic-column p{
+  font-weight: 300;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+.page-body .topic-column p .grant_amount{
+padding: 0.5rem 1rem;
+color: #ffffff;
+background-color: var(--theme-dark-brown);
+}
+.page-body .topic-column h1{
+  font-weight: 400;
+  line-height: 1.5;
+}
+table{
+  border:0;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+td{
+  border:0;
+  text-align: center;
+}
 @media screen and (min-width: 769px) and (max-width: 1100px){
 .top_logo img#afd-logo-style{
   margin: 5px 25px;
@@ -770,7 +860,7 @@ th{
   color: var(--main-color);
 }
 th, td {
-  text-align: left;
+  
   padding: 20px;
 }
 
@@ -1252,75 +1342,7 @@ line-height: 1.5;
   align-items: center;
   justify-content: center;
 }
-.topic-column{
 
-color: white;
-position: relative;
-}
-
-.team-column{
-  -webkit-flex: 0 0 25%;
--ms-flex: 0 0 25%;
-flex: 0 0 25%;
-max-width: 25%;
-color: white;
-height: 400px;
-text-align: center;
-display:flex;
-justify-content: center;
-align-items: center;
-}
-.team-column.team-col-mcc{
-  -webkit-flex: 0 0 50%;
-  -ms-flex: 0 0 50%;
-  flex: 0 0 50%;
-  max-width: 50%;
-}
-
-.team-column.team-col-advisor{
-  -webkit-flex: 0 0 33.33%;
-  -ms-flex: 0 0 33.33%;
-  flex: 0 0 33.33%;
-  max-width: 33.33%;
-}
-.challenge-column{
-  -webkit-flex: 0 0 31.8%;
--ms-flex: 0 0 31.8%;
-flex: 0 0 31.8%;
-max-width: 31.8%;
-border: 10px solid white;
-height: 340px;
-color: white;
-position: relative;
-background-size: cover;
-background-position: center top;
-text-align: center;
-background-blend-mode: multiply;
-background-color: #3d3d3dc0;
-}
-.challenge-column p{
-  padding: 10px 0;
-  font-size: 2.1rem;
-  margin:0;
-  font-weight: 200 !important;
-}
-.topic-column.description{
-  background-color: #ffffff;
-  background-blend-mode: multiply;
-background-size: cover;
-color: var(--secondary-color);
-  background-image: url(../images/af-participants.jpeg);
-  background-position:  center bottom;
-  display:flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.topic-column.description h1{
-background-color: var(--main-color);
-color: #ffffff;
-}
 
 @media screen and (min-width: 769px) and (max-width: 1200px){
   .challenge-row{
@@ -1403,16 +1425,7 @@ color: #ffffff;
 
 }
 
-.topic-column p{
-  font-weight: 200;
-  font-size: 20px;
-  line-height: 1.8;
-  margin: 2rem 0 2rem 0;
-}
-.topic-column h1{
-  font-weight: 400;
-  line-height: 1.5;
-}
+
 .topic-wrap{
   padding: 80px 50px;
 

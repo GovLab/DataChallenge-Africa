@@ -30,6 +30,7 @@ new Vue({
   
     return {
       indexData: [],
+      winnersData:[],
       insightData: [],
       DomainData: [],
       QuestionData: [],
@@ -56,6 +57,7 @@ new Vue({
     this.fetchActionableInsights();
     this.toggleMessage();
     this.fetchPrivacy();
+    this.fetchWinners();
   },
   methods: {
 
@@ -75,6 +77,25 @@ new Vue({
   ).then(data => {
 
     self.indexData = data.data;
+  })
+.catch(error => console.error(error));
+    },
+    fetchWinners() {
+      self = this;
+      const client = new DirectusSDK({
+        url: "https://directus.thegovlab.com/",
+        project: "datachallenge_africa",
+        storage: window.localStorage
+      });
+
+      client.getItems(
+  'winners',
+  {
+    fields: ['*.*']
+  }
+  ).then(data => {
+
+    self.winnersData = data.data;
   })
 .catch(error => console.error(error));
     },
