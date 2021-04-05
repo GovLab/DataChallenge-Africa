@@ -1083,7 +1083,7 @@ margin-bottom:2rem;
   border-bottom: none;
 }
 .home-btn:hover{
-  background-color: var(--accent-color);
+  background-color: var(--yellow);
   transition: all .6s ease;
 }
 .light-section.how-to-text.topic_desc {
