@@ -126,7 +126,7 @@
         <div class="winner-wrap winner-items">
           <h1>{{winner.title_fr}}</h1>
           <p>{{winner.description_fr}}</p>
-          <p><span class="grant_amount">{{winner.grant_amount}}</span></p>
+          <p v-if="winner.grant_amount_fr"><span class="grant_amount">{{winner.grant_amount_fr}}</span></p>
 
         </div>
       </div>
