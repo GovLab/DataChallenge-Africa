@@ -37,6 +37,8 @@ new Vue({
       KeyInformationData: [],
       ActionableInsightsData: [],
       alertData: [],
+      blogData: [],
+      currentDate: '',
       DocuData: [],
       privacyData:[],
       showMessage: true,
@@ -58,6 +60,7 @@ new Vue({
     this.toggleMessage();
     this.fetchPrivacy();
     this.fetchWinners();
+    this.fetchBlog();
   },
   methods: {
 
@@ -77,6 +80,32 @@ new Vue({
   ).then(data => {
 
     self.indexData = data.data;
+  })
+.catch(error => console.error(error));
+    },
+    formatDate(date) {
+      return moment(date).format('DD MMMM YYYY');
+    },
+    currentDateTime() {
+    var currentTime = moment();
+    return currentTime.tz('America/New_York').format('YYYY-MM-DD h:mm:ss');
+    },
+    fetchBlog() {
+      self = this;
+      const client = new DirectusSDK({
+        url: "https://directus.thegovlab.com/",
+        project: "datachallenge_africa",
+        storage: window.localStorage
+      });
+
+      client.getItems(
+  'blog',
+  {
+    fields: ['*.*']
+  }
+  ).then(data => {
+
+    self.blogData = data.data;
   })
 .catch(error => console.error(error));
     },

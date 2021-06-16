@@ -316,6 +316,23 @@ max-width: 50%;
   margin:0;
   font-weight: 600;
 }
+.page-body .topic-column .winner-items p.authors{
+  margin:0;
+  font-size: 1rem;
+}
+.winner-items p.authors{
+  margin:0;
+  color: var(--theme-blue);
+}
+.page-body .topic-column .winner-items p.date-format{
+  margin:0.5rem 0;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.winner-items p.date-format{
+  margin:0.5rem 0;
+  color: var(--theme-blue);
+}
 .winner-wrap.winner-items{
   background-color: var(--theme-light-yellow);
 border: 0.5px solid var(--theme-dark-brown);
@@ -333,6 +350,10 @@ border: 0.5px solid var(--theme-dark-brown);
   font-weight: 200;
   color:var(--yellow);
   font-size: 2rem;
+  margin-bottom:0;
+}
+.page-body .topic-column .winner-items h1{
+margin-bottom: 0;
 }
 .page-body .topic-column .winner-title p{
   color: var(--yellow);
