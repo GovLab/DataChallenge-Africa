@@ -100,7 +100,7 @@ new Vue({
     currentDateTime() {
     var currentTime = moment();
     return currentTime.tz('America/New_York').format('YYYY-MM-DD h:mm:ss');
-    },
+    }
 }
 });
 
