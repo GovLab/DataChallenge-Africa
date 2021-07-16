@@ -1,1 +1,2 @@
 /blog/*  /blog/index.html?:splat  200
+/fr/blog/*  /fr/blog/index.html?:splat  200

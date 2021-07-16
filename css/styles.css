@@ -316,6 +316,7 @@ max-width: 50%;
   margin:0;
   font-weight: 600;
 }
+
 .page-body .topic-column .winner-items p.authors{
   margin:0;
   font-size: 1rem;
@@ -352,9 +353,16 @@ border: 0.5px solid var(--theme-dark-brown);
   font-size: 2rem;
   margin-bottom:0;
 }
-.page-body .topic-column .winner-items h1{
-margin-bottom: 0;
+.page-body .topic-column a{
+  text-decoration: none;
+  border-bottom:none;
 }
+.page-body .topic-column .winner-items h1{
+margin-bottom: 0.5rem;
+}
+.page-body .topic-column .winner-items.blog h1{
+  font-size: 1.3rem;
+  }
 .page-body .topic-column .winner-title p{
   color: var(--yellow);
   font-weight: 200;
@@ -535,6 +543,14 @@ background-size: cover;
 background-position:55% 55%;
 
 height: 40vh;
+}
+.row.top-section.blog{
+  padding: 1rem 12rem;
+  height: 30vh;
+}
+.row.top-section.blog h1{
+  font-size: 1.8rem;
+  text-transform: unset;
 }
 .row.collab{
   padding: 4rem 0;

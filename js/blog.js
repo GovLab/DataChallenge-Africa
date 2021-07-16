@@ -83,6 +83,7 @@ new Vue({
       client.getItems(
   'blog',
   {
+    sort:"-created",
     filter: {
       slug: self.blogslug
     },

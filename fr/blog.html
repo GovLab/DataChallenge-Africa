@@ -23,7 +23,7 @@
   <meta property="og:image" content="https://datachallenge.africa/images/hero-og.png" />
   <meta property="twitter:image" content="https://datachallenge.africa/images/hero-og.png" />
   <link href="https://datachallenge.africa/images/favicon.png" rel="shortcut icon">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="../css/styles.css">
   <link rel="stylesheet" href="https://use.typekit.net/kad3hcl.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -52,15 +52,15 @@
         </a>
       </div>
     </div>
-    <a class="top_logo" href="index.html">
+    <a class="top_logo" href="../index.html">
       <img id="afd-logo-style"
-        src="images/AFD_embleme_horizontale_designation_BLANC.svg" alt="UNDP Logo"><img id="expertise-logo"
-        src="images/logo-expertise-france.png" alt="UNDP Logo"><img src="images/the-govlab-logo-white.png"
+        src="../images/AFD_embleme_horizontale_designation_BLANC.svg" alt="UNDP Logo"><img id="expertise-logo"
+        src="../images/logo-expertise-france.png" alt="UNDP Logo"><img src="../images/the-govlab-logo-white.png"
         alt="The GovLab"></a>
         <div class='lang-select'>
-          <a style="padding: 15px 5px" class="active" href="#">EN</a>
+          <a style="padding: 15px 5px"  href="../blog.html">EN</a>
           <p style="color:#ffffff">|</p>
-          <a style="padding: 15px 5px" href="fr/blog.html">FR</a>
+          <a style="padding: 15px 5px" class="active" href="#">FR</a>
         </div>
 
   </div>
@@ -76,7 +76,7 @@
     </div>
   
     <div class="topic-row">
-      <div v-for="blog in blogData" v-if="blog.language == 0" class="topic-column">
+      <div v-for="blog in blogData" v-if="blog.language == 1" class="topic-column">
         <a :href="'blog/' + blog.slug">
         <div class="winner-wrap winner-items blog">
           <h1>{{blog.title}}</h1>
@@ -203,7 +203,7 @@
 
 <script src='https://unpkg.com/vue@2.0.3/dist/vue.js'></script>
 <script src="https://unpkg.com/vue-meta/dist/vue-meta.min.js"></script>
-<script src="js/datachallenge_africa.js"></script>
+<script src="../js/datachallenge_africa.js"></script>
 
 
 </html>
