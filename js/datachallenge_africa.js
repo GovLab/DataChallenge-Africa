@@ -101,6 +101,7 @@ new Vue({
       client.getItems(
   'blog',
   {
+    sort:"-created",
     fields: ['*.*']
   }
   ).then(data => {
