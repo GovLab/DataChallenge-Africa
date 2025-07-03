@@ -17,6 +17,7 @@ function fixAllImagePaths() {
       // Replace relative image paths with absolute paths
       const originalContent = blog.post;
       
+      
       // Fix various image path patterns
       // 1. Replace ../images/ with /images/
       blog.post = blog.post.replace(/\.\.\/images\//g, '/images/');
