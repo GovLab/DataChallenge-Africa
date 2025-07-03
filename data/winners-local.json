@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "published",
+      "title": "Institut de Recherche pour le Développement",
+      "description": "Researchers will seek to quantify missed opportunities for COVID-19 screening in vulnerable populations (such as people with HIV) in Mali.",
+      "grant_amount": "EUR 39,915",
+      "title_fr": "Institut de recherche pour le développement",
+      "description_fr": "Un projet visant à quantifier les opportunités manquées de dépistage du Covid-19 chez les populations vulnérables (particulièrement les personnes vivant avec le VIH).",
+      "grant_amount_fr": "39 915 €"
+    },
+    {
+      "id": 2,
+      "status": "published",
+      "title": "Université Alioune Diop de Bambey",
+      "description": "A university team will investigate how the crisis impacted the social, economic, and technical circumstances of students pursuing higher education in Senegal and which action can be taken to mitigate negative effects.",
+      "grant_amount": "EUR 90,102",
+      "title_fr": "Université Alioune Diop de Bambey",
+      "description_fr": "Un projet évaluant la manière dont les étudiants du supérieur ont été impactés par la crise et cherchant à développer des solutions pertinentes face à ses impacts négatifs auprès de cette population.",
+      "grant_amount_fr": "90 102 €"
+    },
+    {
+      "id": 3,
+      "status": "published",
+      "title": "Nigeria Center for Disease and Control",
+      "description": "This project will seek to understand which social, economic, and political factors influence individual knowledge and perception of COVID-19 among Nigerians and how they shape population behavior.",
+      "grant_amount": "EUR 83,811.46",
+      "title_fr": "Nigeria Center for Disease and Control",
+      "description_fr": "Un projet visant à mieux comprendre les facteurs politiques, économiques et sociaux influençant les croyances et perceptions individuelles des Nigérians face au Covid-19 et la manière dont celles-ci définissent leur comportement.",
+      "grant_amount_fr": "83 811,46 €"
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "title": "Code for Africa",
+      "description": "Participants will develop an “African COVID-19 Vulnerability Index” in coordination with the African CDC to give leaders in Nigeria and Senegal up-to-date and granular resources about the public to support their decision-making.",
+      "grant_amount": "EUR 98,488",
+      "title_fr": "Code for Africa",
+      "description_fr": "Un projet visant à développer un indice africain de vulnérabilité au Covid-19, en coordination avec Africa CDC, et à destination des décideurs publics, pour éclairer de manière précise et actualisée les processus de prise de décisions.",
+      "grant_amount_fr": "98 488 € "
+    },
+    {
+      "id": 5,
+      "status": "published",
+      "title": "The Population Council, Kenya",
+      "description": "The research team will examine how perceptions of COVID-19 and vulnerability to it influence the adoption of protective behaviors and to what extent the perceived vulnerability and adoption of protective behaviors differ by population sub-groups in Kenya and Zimbabwe",
+      "grant_amount": "EUR 82,011.16",
+      "title_fr": "The Population Council ",
+      "description_fr": "Un projet visant à évaluer la manière dont les perceptions de la vulnérabilité face au Covid-19 influencent l’adoption de comportements préventifs, en fonction des sous-groupes de population identifiés.",
+      "grant_amount_fr": "82 011,16 €"
+    },
+    {
+      "id": 6,
+      "status": "published",
+      "title": "Institut National d’Hygiène Publique",
+      "description": "This project will seek to understand how organizations can best obtain information on the spread of acute respiratory tract infections in Cote d’Ivoire and how organizations can use different datasets to enhance existing disease surveillance and early-warning systems in a way that is proactive and sustainable long-term.",
+      "grant_amount": "EUR 100,000",
+      "title_fr": "Institut National d’Hygiène Publique",
+      "description_fr": "Un projet visant à renforcer les mécanismes existants de surveillance épidémique, grâce à un système d’alerte précoce notamment auprès des groupes de population qui n’ont pas ou peu accès aux services de santé.",
+      "grant_amount_fr": "100 000 € "
+    },
+    {
+      "id": 7,
+      "status": "published",
+      "title": "Data Science Institute : Institut National Polytechnique Felix Houphouët-Boigny",
+      "description": "The Data Science Institute will seek to understand public needs and concerns about measures taken amid the COVID-19 pandemic in Cote d’Ivoire, including curfew and lockdown restrictions, with an aim of reducing mistrust of authorities.",
+      "grant_amount": "EUR 72,000",
+      "title_fr": "Data Science Institute : Institut National Polytechnique Felix Houphouët-Boigny",
+      "description_fr": "Un projet s’appuyant sur des données anonymisées issues des réseaux sociaux pour mieux comprendre les attentes et inquiétudes des populations vis-à-vis des mesures prises par les autorités pour lutter contre le Covid-19 (couvre-feu, confinement, etc.), afin de réduire la perte de confiance envers celles-ci.",
+      "grant_amount_fr": "72 000 €"
+    }
+  ],
+  "public": true
+}

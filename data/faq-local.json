@@ -1,0 +1,446 @@
+{
+  "data": [
+    {
+      "id": 8,
+      "status": "published",
+      "question_title": "What’s the schedule for how funds will be dispersed for the awarded projects?",
+      "answer": "<p>Once a project is selected and all the criteria verifications are made we will be signing a contract with the lead organisation that submitted the proposal. Based on the a first payment will be made up to 70% of the budget. The remaining will be disbursed at successful completion of the project.&nbsp;</p>\n<p><em>Received: January 13, 2021</em></p>\n<p><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 9,
+      "status": "published",
+      "question_title": "What do the following terms refer mean in the context of the challenge: Name and Affiliation of Team Lead, Primary Organizational Affiliation, Other Team Members and Affiliations?",
+      "answer": "<p>We are expecting proposals made by a partnership of several structures (up to 3). The lead partner who will be submitting the proposal is considered the lead. We need to know the company structure and composition.&nbsp;</p>\n<p><em>Received:&nbsp;January 13, 2021</em></p>\n<p><em>Answered:&nbsp;January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 10,
+      "status": "published",
+      "question_title": "What is the extract of registration in the Trade and Companies Register (RCS) (less than 3 months) and a document specifying the name and function of the legal representative of the entity?",
+      "answer": "<p>This document is different in every country. Maybe if you tell us where you are registered we could help you more precisely but basically we need an extract from the commercial register of the country. This doesn&rsquo;t apply to some public or non-profit structures, in that case you have to provide an official statement and explain why you can&rsquo;t provide this document.&nbsp;</p>\n<p><em>Received: January 13, 2021</em></p>\n<p><em>Answered: January 13, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 11,
+      "status": "published",
+      "question_title": "Can you provide a sample budget and sample categories that can be included in the budget?",
+      "answer": "<p>These and other supporting documents are available in the <a href=\"https://datachallenge.africa/documents.html\">Key Documents</a> section of the datachallenge.africa website. &nbsp;</p>\n<p><em>Received: January 13, 2021</em></p>\n<p><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 12,
+      "status": "published",
+      "question_title": "Are public universities eligible to apply for the challenge?",
+      "answer": "<p>All legal persons (and legal entities), be they private or public ones, and including universities, are eligible under this call.</p>\n<p><em>Received: December 22, 2020</em></p>\n<p><em>Answered: December 30, 2020</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 13,
+      "status": "published",
+      "question_title": "Is the criterion that general liquidity ratios closed must be at least 1 required for public universities?",
+      "answer": "<p>Any legal person applying must comply with the general liquidity ratio (current assets/current liabilities must be at least 1) for the last two financial years closed.</p>\n<p class=\"p1\"><em>Received: December 22, 2020</em></p>\n<p class=\"p1\"><em>Answered: December 30, 2020</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 14,
+      "status": "published",
+      "question_title": "Does the Principle Investigator (PI) need to be a Professor/PhD?",
+      "answer": "<p>No need for the PI to be a formal Professor/PhD yet we would value an indication of research experience/competence when reviewing the proposals.</p>\n<p class=\"p1\"><em>Received: January 19, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 15,
+      "status": "published",
+      "question_title": "Would the results of the research, if funded, be publicly available or privately used?",
+      "answer": "<p>The requirement is to have the results made publicly available.&nbsp;</p>\n<p class=\"p1\"><em>Received: January 19, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 16,
+      "status": "published",
+      "question_title": "Are multidisciplinary university researchers eligible to apply?",
+      "answer": "<p>The call is open to legal entities, universities are eligible but natural persons (individuals) are not.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 17,
+      "status": "published",
+      "question_title": "Will documents of incorporation be required from a university research team or will an official letter do?",
+      "answer": "<p>You should provide the university&rsquo;s incorporation document.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 18,
+      "status": "published",
+      "question_title": "Would you require audited bank statements or any evidence that the university has successfully implemented grants in the past?",
+      "answer": "<p>Audited financial reports should be provided for the lead partner to prove the eligible criteria stated in the call.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 19,
+      "status": "published",
+      "question_title": "Are US-registered NGOs (established as a Foundation) excluded from participating in the challenge??",
+      "answer": "<p>No, partners, including NGOs, that meet the eligible criteria are not excluded.</p>\n<p class=\"p1\"><em>Received: January 19, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 20,
+      "status": "published",
+      "question_title": "What does it mean to be an international organization?",
+      "answer": "<p>An international organisation is defined by the United Nations as \"any organisation established by a treaty or other instrument governed by international law and having its own international legal personality. An international organization may also include among its members entities other than States\" (Article 2 of the Draft Articles on Responsibility of International Organizations, 2011).</p>\n<p class=\"p1\"><em>Received: January 19, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 21,
+      "status": "published",
+      "question_title": "What could be the alternatives for the extract of registration in the Trade and Companies Register (RCS)?",
+      "answer": "<p>To be eligible under this call you have to be a legal person (legal entity) or a partnership of legal persons. It means that a natural person (also called physical person or an individual) can not apply -- and indeed, individuals cannot register in the trade register. My advice would be to look for some partnerships around you with companies, universities or other legal entities with whom you could work together to work out an interesting proposal.</p>\n<p class=\"p1\"><em>Received: January 5, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 6, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 22,
+      "status": "published",
+      "question_title": "My organization is registered as a non-profit under the Kenya Non-Governmental Coordination Act and therefore would not be registered in the Kenya Trade and Companies Register. Are we still eligible?",
+      "answer": "<p>In the case of your NGO that is not registered in the business register you can provide all relevant document on the registration of your legal entity.</p>\n<p class=\"p1\"><em>Received: January 18, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 23,
+      "status": "published",
+      "question_title": "Would we need to draft the document specifying the name and function of the legal representative of the entity or is it expected to already be in existence as part of the institution's documentation?",
+      "answer": "<p>You can use documents that already exist. If not, you can draft and sign it by the person authorised to sign such documents.</p>\n<p class=\"p1\"><em>Received: January 18, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 24,
+      "status": "published",
+      "question_title": "Can the consortium leader be international but legally registered in one of the countries of the African Union or does it need to be a local organization from one of the African Union countries?",
+      "answer": "<p>The leader should be a partner established, public or private, in Africa. It should not be a subsidiary of an international company.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 25,
+      "status": "published",
+      "question_title": "Is a partnership with a local organization mandatory?",
+      "answer": "<p>Yes, it is.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 26,
+      "status": "published",
+      "question_title": "Is the challenge open to NGOs?",
+      "answer": "<p>Yes, it is.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 27,
+      "status": "published",
+      "question_title": "For NGOs applying for the challenge, do they still need to provide proof of registration in the business register and communicate the turnover of the applicants?",
+      "answer": "<p>Yes, they do. Eligible financial criteria are obligatory for the lead partner who will be submitting the proposal.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 18, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 28,
+      "status": "published",
+      "question_title": "Are government commissions or agencies eligible to apply?",
+      "answer": "<p>To be able to give you a clear yes or no reply to your question we would need to know if you can provide the following requested documents: your legal statutes or articles of association; extract of registration in the Trade and Companies Register (RCS). The latest should not be older than 3 months.</p>\n<p>If you plan to submit a proposal as leader or unique partner you should also comply with the following criteria:&nbsp;<br />&bull; your average cumulative annual turnover over the last two years for which the accounts have been closed must be at least three times the grant application;&nbsp;<br />&bull; The general liquidity ratios (current assets/current liabilities) for the last two financial years closed must be at least 1 (one).</p>\n<p class=\"p1\"><em>Received: December 24, 2020</em></p>\n<p class=\"p1\"><em>Answered: January 6, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 29,
+      "status": "published",
+      "question_title": "The call for proposals has a focus on use of existing data. Can a proposal include some new generation of data?",
+      "answer": "<p>Yes, it can.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 30,
+      "status": "published",
+      "question_title": "Does a project focused on vaccine uptake fall within the aims of the funding call?",
+      "answer": "<p>Yes, it can as long as you also meet all other eligible criteria.&nbsp;</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 31,
+      "status": "published",
+      "question_title": "Can an international NGO be included as a partner with a lead applicant organization registered in an African Union country?",
+      "answer": "<p>Your proposed partnership seems ok and if you could include a French-speaking country as third partner, it will be much considered.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 32,
+      "status": "published",
+      "question_title": "Can a project focus initially on a non-French-speaking African country, or is a French-speaking country a proposal requirement?",
+      "answer": "<p>If you could include a French-speaking country as third partner, it will be much considered.</p>\n<p class=\"p1\"><em>Received: January 12, 2021</em></p>\n<p class=\"p1\"><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 33,
+      "status": "published",
+      "question_title": "Does a private company participating in an inter-sectoral partnership meet the \"legal person\" and financial criteria?",
+      "answer": "<p>Please provide the country in which the private company is registered. As a reminder, the leader of the consortium must be established in an African Union country.</p>\n<p><em>Received: January 14, 2021</em></p>\n<p><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": "Nous sommes un collectif des ONG ainsi que des entreprises. Est-ce que l'entreprise répond aux critères de la personne morale et aux critères financiers?",
+      "answer_fr": "<p>Pourriez-vous nous indiquer dans quel pays est enregistr&eacute; l'entreprise ? Pour rappel, le chef de file de votre consortium doit &ecirc;tre &eacute;tabli dans l&rsquo;un des pays de l&rsquo;Union Africaine.</p>\n<p><em><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"fr\" data-language-to-translate-into=\"en\" data-phrase-index=\"0\">Re&ccedil;u: 14 janvier 2021</span></em></p>\n<p><em><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"fr\" data-language-to-translate-into=\"en\" data-phrase-index=\"2\">R&eacute;ponse: 19 janvier 2021</span></em></p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: -13px; top: 83px;\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "order": null
+    },
+    {
+      "id": 34,
+      "status": "published",
+      "question_title": "Is the participation of local health partners required?",
+      "answer": "<p>Please read our website carefully and ensure that your objective corresponds well with the framework of this call. You must clearly state how your project will generate actionable information and help decision-makers and people navigate COVID-19.</p>\n<p><em>Received: January 14, 2021</em></p>\n<p><em>Answered: January 19, 2021</em></p>",
+      "question_title_fr": "Faut-il ajouter à notre collectif une entreprise de santé locale?",
+      "answer_fr": "<p>Nous vous invitons &agrave; lire attentivement le site internet et vous assurez que votre objectif correspond bien &agrave; ce qui est recherch&eacute; dans le cadre de cet appel. N&rsquo;oubliez pas que votre description doit indiquer clairement comment votre projet va g&eacute;n&eacute;rer des informations exploitables et aidera les d&eacute;cideurs et les personnes &agrave; g&eacute;rer cette crise sans pr&eacute;c&eacute;dent.&nbsp;</p>\n<p><em><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"fr\" data-language-to-translate-into=\"en\" data-phrase-index=\"0\">Re&ccedil;u: 14 janvier 2021</span></em></p>\n<p><em><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"fr\" data-language-to-translate-into=\"en\" data-phrase-index=\"2\">R&eacute;ponse: 19 janvier 2021</span></em></p>",
+      "order": null
+    },
+    {
+      "id": 35,
+      "status": "published",
+      "question_title": "Is a young company - i.e. one that is less than 3 years old - eligible to apply?",
+      "answer": "<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Dear Sir/Madam\\n \\n We intend to apply for the referenced grant. I had an IT solution to COVID-19 that was fully adopted by my country and we are currently implementing together with the government. The entity I am using was legally registered December last year and it Is the same legal persona I am intending to use for application. Is a company that is not 3 years old eligible to apply?\\n \\n regards\\n \\n Darlington Chigumbu&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:15297,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:10}\">Young companies are eligible yet key will be documenting strong partnerships and developing a strong proposal that can generate actionable insight toward impact.</span></p>\n<p><em>Received: January 20, 2021</em></p>\n<p><em>Answered: January 20, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 36,
+      "status": "published",
+      "question_title": "What is considered an actionable insight?",
+      "answer": "<p>Insights that decision-makers can translate into real-world action.&nbsp;</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 37,
+      "status": "published",
+      "question_title": "Can a team of lecturers from any African University who have collected data on COVID-19 using social media platform participate in this challenge?",
+      "answer": "<p>Yes.&nbsp;</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 38,
+      "status": "published",
+      "question_title": "Can you clarify what ‘pre-existing work’ means including an example?",
+      "answer": "<p>The intention is to avoid \"copy and paste\" work that has already been funded in the current proposed form. Applicants are encouraged, however, to use previous work as a foundation for a new proposal. For instance, an expansion, implementation in a different country, a new methodology, or repurposing previously used data, would all be acceptable. Repackaging a proposal that was already accepted and funded by a different organization would not be acceptable.&nbsp;</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 39,
+      "status": "published",
+      "question_title": "This is a short-term funding scheme, but our work is something we see as on-going. We are not currently funded, but would we be prevented from applying to keep it going for after this funding period?",
+      "answer": "<p>No, applicants and awardees are not barred from subsequently pursuing funding to support, scale, or replicate their work. In fact, such an approach could be a valuable way to ensure sustainability.&nbsp;</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 40,
+      "status": "published",
+      "question_title": "Are we the one to choose a problem by ourselves or are we suppose to be given one?",
+      "answer": "<p>Applicants are expected to define the problem and focus of their project. Ideally, applicants will define the problem in collabroation with those who can act upon the insight. Two important considerations related to the problem can add weight to a proposal: 1) is&nbsp;there &nbsp;demand for actually having the problem addressed as defined in the proposal; and 2) were organizations that can respond and address the problem involved in the problem definition process.</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 41,
+      "status": "published",
+      "question_title": "As a guide, what’s an appropriate ratio for new data collection to pre-exisiting data that projects should adhere to?",
+      "answer": "<p>There is no set criteria. It depends on the problem and the data ecosystem in which the project will be implemented. We encourage applicants to think about how they can reuse data that is already collected in a rapid fashion that could help to inform efforts to address COVID-19.&nbsp;</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 42,
+      "status": "published",
+      "question_title": "Can an international NGO legal registered in an AU country be the lead in a consortium, or should it be a local organization?",
+      "answer": "<p>Yes. As long as the lead partner is registered in an African country. </p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>\n<p>&nbsp;</p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 43,
+      "status": "published",
+      "question_title": "Is this funding also eligible for sanitation and water?",
+      "answer": "<p><span style=\"color: #d5dade;\">Thank you for reaching out and highlighting this important issue. The #Data4COVID19 Africa Challenge is specifically focused on the collaborative use of data to help to address various dimensions of the COVID-19 pandemic. If your sanitation and water project proposal involves a partnership to use data to support the response to the pandemic, then it would be relevant for this funding opportunity. If not, the challenge would not be a good fit for the work you are seeking to do.</span></p>\n<p><em><span style=\"color: #d5dade;\">Received: January 18, 2021</span></em></p>\n<p><em><span style=\"color: #d5dade;\">Answered: January 21, 2021</span></em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 44,
+      "status": "published",
+      "question_title": "Can the same team submit multiple proposals for different country implementations?",
+      "answer": "<p>Applicants are encouraged to only submit one proposal. A single proposal can however, involve implementations in multiple countries as part of a larger scope o. There are no restrictions on applicants pursuing subsequent additional funding to support, scale, or replicate their work.</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 45,
+      "status": "published",
+      "question_title": "Is impact measured by the scale of the project or by the potential the insight can have at scale??",
+      "answer": "<p>It depends on the problem to be solved. We encourage applicants to spend time on caerfully defining the problem to be addressed. Ultimately the problem definition will determine how the proposal is evaluated.&nbsp;</p>\n<p><em>Received: January 12, 2021</em></p>\n<p><em>Answered: January 12, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 46,
+      "status": "published",
+      "question_title": null,
+      "answer": null,
+      "question_title_fr": "J’aimerais de ce fait savoir si mon application (une entité légale en Afrique subsaharienne francophone) aura moins de chance d’être sélectionnée par rapport à un consortium?. ",
+      "answer_fr": "<p>Dans votre application vous devriez d&eacute;montrer une relation avec des organisations reconnues op&eacute;rant en Afrique, engag&eacute;es et capables d'agir sur la base de l'information g&eacute;n&eacute;r&eacute;e, comme une administration ou un groupe de la soci&eacute;t&eacute; civile bas&eacute; localement. Vous pouvez certainement am&eacute;liorer vos chances en &eacute;largissant votre candidature un y ajoutant au moins un autre partenaire.</p>\n<p><em>Received: February 4, 2021</em></p>\n<p><em>Answered: February 4, 2021</em></p>",
+      "order": null
+    },
+    {
+      "id": 47,
+      "status": "published",
+      "question_title": "What should our organization do if it is impossible to obtain legal documents from our local government registry?",
+      "answer": "<p>In this case please provide a declaration on honour to prove your status, you could also explain the reason behind this situation. Please note that &nbsp;you will have to provide this document in case your offer is pre-selected.</p>\n<p><em>Received:&nbsp;February 1, 2021</em></p>\n<p><em>Answered: February 1, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 48,
+      "status": "published",
+      "question_title": "Would a partnership of 3 universities chartered in Kenya meet the following requirement: \"\"For each member an extract of registration in the Trade and Companies Register (RCS) (less than 3 months)?\"",
+      "answer": "<p>Yes universities are eligible. Of course if there is no trade registration &nbsp;you should provide the Act establishing the University.</p>\n<p><em>Received: January 28, 2021</em></p>\n<p><em>Answered: January 29, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 49,
+      "status": "published",
+      "question_title": "A large portion of the funding for our AU-based organization is handled by a global NGO, so the annual turnover of our organization does not reach the required amount. Are we eligible?",
+      "answer": "<p>Please provide a full annual budget including all support also from national and international organizations, also from the partners you have mentioned.</p>\n<p>It would also be great to pay attention to the partnership you will propose with your offer. You should include other local partners, your action can concentrate on one country or a group of countries, and so it would be great if you could involve concrete local decision makers in your project.</p>\n<p>There are templates of documents available on the webpage, please check them out, you should provide them with all relevant official documents.</p>\n<p><em>Received: January 28, 2021</em></p>\n<p><em>Answered: January 28, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 50,
+      "status": "published",
+      "question_title": "My University’s Audit Report is available only up to 2017. Is a cover letter from the Directorate of Finance committing to the oversight of a successful application sufficient?",
+      "answer": "<p>Audited financial reports should be provided for the lead partner to prove the eligible criteria stated in the call. You should provide audit reports for the last two years for which the accounts have been closed (normally 2019 and 2018).</p>\n<p><em>Received: January 28, 2021</em></p>\n<p><em>Answered: January 28, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 51,
+      "status": "published",
+      "question_title": "Should we submit each of the requested Additional Supporting Documents individually? Also, should we submit them all under “Additional Supporting Document” in the application form?",
+      "answer": "<p>Yes, please provide the filled-in templates available on the webpage with your offer. In addition, also please provide all official documents possible on your eligibility criteria as the extract of the trade/business register and other relevant ones on your financial capacities.</p>\n<p>Indeed, you can submit them under Additional supporting document.</p>\n<p><em>Received: January 28, 2021</em></p>\n<p><em>Answered: January 28, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 52,
+      "status": "published",
+      "question_title": "Should we consider only public decision-makers and citizens or maybe other entities? Could we focus on one or a few countries rather than a global continental initiative?",
+      "answer": "<p>Focusing on a few countries makes sense, yet a clear commitment from public decision-makers will be important.&nbsp;</p>\n<p><em>Received: January 26, 2021</em></p>\n<p><em>Answered: January 27, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 53,
+      "status": "published",
+      "question_title": "Should each proposal address each of the three domains: public health, economics, and socio-political?",
+      "answer": "<p>One or more. There is no requirement to cover them all.&nbsp;</p>\n<p><em>Received: January 26, 2021</em></p>\n<p><em>Answered: January 26, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 54,
+      "status": "published",
+      "question_title": "To what extent are the final databases aimed at being openly released ? Will it be limited to some of the results or expanded to the whole datasets ?",
+      "answer": "<p>It depends on the data collaborative conditions with the data owner. At any rate, please include in your proposal any plans you may have to open up data.</p>\n<p><em>Received: January 26, 2021</em></p>\n<p><em>Answered: January 27, 2021</em></p>",
+      "question_title_fr": null,
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 55,
+      "status": "published",
+      "question_title": null,
+      "answer": "<p>Funds from the #Data4COVID19 Africa Challenge can finance only part of a project as long as the proposal complies with all requirements and eligibility criteria.</p>\n<p><em>Received: January 21, 2021</em></p>\n<p><em>Answered: January 21, 2021</em></p>",
+      "question_title_fr": "L'AFD accepte que d'autres bailleurs accompagnent le projet ?",
+      "answer_fr": null,
+      "order": null
+    },
+    {
+      "id": 56,
+      "status": "published",
+      "question_title": "",
+      "answer": null,
+      "question_title_fr": "Nous souhaitons savoir si les équipes de recherche peuvent postuler ?",
+      "answer_fr": "<p>Afin de pouvoir r&eacute;pondre &agrave; l'appel, vous devez avoir une entit&eacute; morale. Si votre entit&eacute; n'est pas enregistr&eacute;e dans un registre du commerce, vous devez fournir un document ou une lettre officielle pour en expliquer les raisons. Tous les autres crit&egrave;res s'appliquent.</p>\n<p><em>Received: January 21, 2021</em></p>\n<p><em>Answered: January 25, 2021</em></p>",
+      "order": null
+    }
+  ],
+  "public": true
+}

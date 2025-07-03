@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "published",
+      "insight_url": "https://unctad.org/en/PublicationsLibrary/aldcmisc2020d3_en.pdf",
+      "insight_text": "<p>Result in a fall of about <strong>1.4% in GDP</strong> in Africa</p>",
+      "insight_text_fr": "<p>G&eacute;n&eacute;rer une baisse d'environ <strong>1,4% du PIB en Afrique</strong></p>"
+    },
+    {
+      "id": 2,
+      "status": "published",
+      "insight_url": "https://www.ifc.org/wps/wcm/connect/05008fd5-a427-4fae-8521-fa6c73d82d88/2020-09-09-SSA-Regional-Brief-COVID-19.pdf?MOD=AJPERES&CVID=nhO.iFv",
+      "insight_text": "<p>Move Sub-Saharan Africa into a recession in 2020 for the first time in 15 years, costing the region between <strong>$37 billion and $79 billion in output losses</strong> according to the World Bank.</p>",
+      "insight_text_fr": "<p>Faire entrer l'Afrique subsaharienne dans une r&eacute;cession en 2020 pour la premi&egrave;re fois en 15 ans, ce qui co&ucirc;tera &agrave; la r&eacute;gion entre <strong>37 et 79 milliards de dollars en pertes de production</strong> selon la Banque mondiale</p>"
+    },
+    {
+      "id": 3,
+      "status": "published",
+      "insight_url": "https://www.theigc.org/wp-content/uploads/2020/05/Teachout-and-Zipfel-2020-policy-brief-.pdf",
+      "insight_text": "<p>Expose an <strong>additional 9.1% of the population</strong> in Sub-Saharan Africa to extreme poverty, according to the International Growth Centre.</p>",
+      "insight_text_fr": "<p>Exposer <strong>9,1 % de plus de la population</strong> de l'Afrique subsaharienne &agrave; l'extr&ecirc;me pauvret&eacute;, selon le Centre international de croissance</p>"
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "insight_url": "https://www.weforum.org/agenda/2020/06/covid-19-is-likely-to-increase-youth-unemployment-in-africa-this-is-how-business-can-mitigate-the-damage/",
+      "insight_text": "<p>Threaten nearly <strong>20 million jobs in Africa</strong>, both in formal and informal sectors.</p>",
+      "insight_text_fr": "<p>Menacer pr&egrave;s de <strong>20 millions d'emplois en Afrique,</strong> tant dans les secteurs formel qu'informel</p>"
+    },
+    {
+      "id": 5,
+      "status": "published",
+      "insight_url": "https://www.brookings.edu/blog/education-plus-development/2020/06/04/ensuring-learning-continuity-for-every-african-child-in-the-time-of-covid-19/",
+      "insight_text": "<p>Leave over<strong> 250 million children</strong> out of school across Africa.</p>",
+      "insight_text_fr": "<p>Laisser plus de <strong>250 millions d'enfants</strong> non scolaris&eacute;s &agrave; travers l'Afrique</p>"
+    },
+    {
+      "id": 6,
+      "status": "published",
+      "insight_url": "https://www.theigc.org/wp-content/uploads/2020/05/Teachout-and-Zipfel-2020-policy-brief-.pdf",
+      "insight_text": "<p>Render <strong>3.6 percent</strong> of the population of Sub-Saharan Africa, including 3.9 million children under the age of 5, severely food deprived</p>",
+      "insight_text_fr": "<p>Priver gravement de nourriture&nbsp;<strong>3,6 % de la population</strong> de l'Afrique subsaharienne, dont 3,9 millions d'enfants de moins de 5 ans</p>"
+    },
+    {
+      "id": 7,
+      "status": "published",
+      "insight_url": "https://reliefweb.int/report/world/exploring-impact-covid-19-africa-scenario-analysis-2030",
+      "insight_text": "<p>Contribute to a <strong>US $3.7 billion decline</strong> in public and private health expenditures by the end of 2020.&nbsp;</p>",
+      "insight_text_fr": "<p>Contribuer &agrave; une baisse des d&eacute;penses de sant&eacute; publiques et <strong>priv&eacute;es de 3,7 milliards de dollars am&eacute;ricains</strong> d'ici fin 2020&nbsp;</p>"
+    }
+  ],
+  "public": true
+}

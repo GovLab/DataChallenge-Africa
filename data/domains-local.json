@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "published",
+      "domain_title": "Public Health",
+      "domain_list": "<ul>\n<li>Tracking Disease Spread</li>\n<li>Developing Disease Treatment</li>\n<li>Identifying the Availability of Supplies</li>\n<li>Monitoring Adherence to Non-Pharmaceutical Interventions</li>\n</ul>",
+      "domain_title_fr": "Santé publique",
+      "domain_list_fr": "<ul>\n<li>Suivre la propagation des maladies</li>\n<li>D&eacute;velopper le traitement des maladies</li>\n<li>Identifier la disponibilit&eacute; des fournitures</li>\n<li>Contr&ocirc;ler le respect des interventions non pharmaceutiques</li>\n</ul>"
+    },
+    {
+      "id": 2,
+      "status": "published",
+      "domain_title": "Economic",
+      "domain_list": "<ul>\n<li><span style=\"font-size: 16px;\">Supporting Post-Pandemic Re-openings and Recovery</span></li>\n<li><span style=\"font-size: 16px;\">Alleviating Pandemic-related Unemployment and Poverty</span></li>\n<li><span style=\"font-size: 16px;\">Guaranteeing Protections for Workers</span></li>\n<li><span style=\"font-size: 16px;\">Supporting Education and Upskilling</span></li>\n<li><span style=\"font-size: 16px;\">Fostering Business and Government Solvency</span></li>\n</ul>",
+      "domain_title_fr": "Économique",
+      "domain_list_fr": "<ul>\n<li><span style=\"font-weight: 400;\">Soutenir la r&eacute;ouverture et le r&eacute;tablissement post-pand&eacute;mique</span></li>\n<li><span style=\"font-weight: 400;\">R&eacute;duire le ch&ocirc;mage et la pauvret&eacute; li&eacute;s &agrave; la pand&eacute;mie</span></li>\n<li><span style=\"font-weight: 400;\">Garantir la protection des travailleurs</span></li>\n<li><span style=\"font-weight: 400;\">Soutenir l'&eacute;ducation et le perfectionnement</span></li>\n<li><span style=\"font-weight: 400;\">Encourager la solvabilit&eacute; des entreprises et des gouvernements</span></li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "status": "published",
+      "domain_title": "Socio-Political",
+      "domain_list": "<ul>\n<li><span style=\"font-size: 16px;\">Understanding Public Perceptions and Behavior</span></li>\n<li><span style=\"font-size: 16px;\">Protecting Human Rights and Promoting Accountability</span></li>\n<li><span style=\"font-size: 16px;\">Addressing Misinformation</span></li>\n</ul>",
+      "domain_title_fr": "Sociopolitique",
+      "domain_list_fr": "<ul>\n<li><span style=\"font-weight: 400;\">Comprendre les perceptions et le comportement du public</span></li>\n<li><span style=\"font-weight: 400;\">Prot&eacute;ger les droits de l'homme et promouvoir la responsabilit&eacute;</span></li>\n<li><span style=\"font-weight: 400;\">Lutte contre la d&eacute;sinformation</span></li>\n</ul>"
+    }
+  ],
+  "public": true
+}

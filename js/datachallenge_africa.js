@@ -66,22 +66,30 @@ new Vue({
 
     fetchIndex() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/splash-page-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.indexData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading splash page data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'splash_page_text',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.indexData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'splash_page_text',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.indexData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     formatDate(date) {
       return moment(date).format('DD MMMM YYYY');
@@ -92,196 +100,274 @@ new Vue({
     },
     fetchBlog() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/blog-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.blogData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading blog data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'blog',
-  {
-    sort:"-created",
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.blogData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'blog',
+            {
+              sort:"-created",
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.blogData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchWinners() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/winners-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.winnersData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading winners data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'winners',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.winnersData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'winners',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.winnersData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchPrivacy() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/privacy-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.privacyData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading privacy data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'privacy_policy',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.privacyData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'privacy_policy',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.privacyData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchInsights() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/insights-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.insightData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading insights data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'insights',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.insightData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'insights',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.insightData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchDomains() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/domains-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.DomainData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading domains data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'domains',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.DomainData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'domains',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.DomainData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchQuestions() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/faq-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.QuestionData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading FAQ data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'faq',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.QuestionData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'faq',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.QuestionData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchKeyInformation() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/key-information-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.KeyInformationData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading key information data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'key_information',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.KeyInformationData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'key_information',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.KeyInformationData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchActionableInsights() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/actionable-insights-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.ActionableInsightsData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading actionable insights data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'actionable_insights_list',
-  {
-    fields: ['*.*']
-  }
-  ).then(data => {
-
-    self.ActionableInsightsData = data.data;
-  })
-.catch(error => console.error(error));
+          client.getItems(
+            'actionable_insights_list',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.ActionableInsightsData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchAlerts() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/alerts-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.alertData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading alerts data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'alert_banner',
-  {
-    fields: ['*.*']
-  }
-).then(data => {
-  self.alertData = data.data;
-
-})
-
-.catch(error => console.error(error));
+          client.getItems(
+            'alert_banner',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.alertData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     fetchDocuments() {
       self = this;
-      const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
-        project: "datachallenge_africa",
-        storage: window.localStorage
-      });
+      fetch('/data/documents-local.json')
+        .then(response => response.json())
+        .then(data => {
+          self.DocuData = data.data;
+        })
+        .catch(error => {
+          console.error('Error loading documents data:', error);
+          // Fallback to API if local file fails
+          const client = new DirectusSDK({
+            url: "https://directus.thegovlab.com/",
+            project: "datachallenge_africa",
+            storage: window.localStorage
+          });
 
-      client.getItems(
-  'documents',
-  {
-    fields: ['*.*']
-  }
-).then(data => {
-  self.DocuData = data.data;
-
-})
-
-.catch(error => console.error(error));
+          client.getItems(
+            'documents',
+            {
+              fields: ['*.*']
+            }
+          ).then(data => {
+            self.DocuData = data.data;
+          })
+          .catch(error => console.error(error));
+        });
     },
     toggleMessage (index) {
       this.index_active = index;

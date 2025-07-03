@@ -1,0 +1,353 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "published",
+      "insight_title": "Situational awareness",
+      "insight_description": "Initiatives that leverage data to enable stakeholders across sectors to better understand COVID-19 trends and geographic distribution. ",
+      "insight_icon": {
+        "id": 1,
+        "storage": "local",
+        "private_hash": "2o29yxqx0680s44s",
+        "filename_disk": "7cc41e34-790f-4ed8-b172-2734b01ecc45.png",
+        "filename_download": "noun_Awareness_1909328.png",
+        "title": "Noun Awareness 1909328",
+        "type": "image/png",
+        "uploaded_by": 1,
+        "uploaded_on": "2020-11-06T17:01:08+00:00",
+        "charset": "binary",
+        "filesize": 67592,
+        "width": 1200,
+        "height": 1200,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "13eab8d6a07660cf3baa7e4655d45ff3",
+        "metadata": null,
+        "data": {
+          "full_url": "/images/7cc41e34-790f-4ed8-b172-2734b01ecc45.png",
+          "url": "/images/7cc41e34-790f-4ed8-b172-2734b01ecc45.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-small-crop",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-small-contain",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-medium-crop",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-medium-contain",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-large-crop",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-large-contain",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/2o29yxqx0680s44s?key=thumbnail",
+              "relative_url": "/datachallenge_africa/assets/2o29yxqx0680s44s?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      },
+      "insight_title_fr": "Conscience de la situation",
+      "insight_description_fr": "Initiatives qui exploitent les données pour permettre aux parties prenantes de tous les secteurs de mieux comprendre les tendances et la répartition géographique du Covid19. "
+    },
+    {
+      "id": 2,
+      "status": "published",
+      "insight_title": "Cause-and-effect insight",
+      "insight_description": "Initiatives that can help stakeholders better understand the key drivers and consequences of COVID-19. They aim to establish which variables make a difference for a problem and whether further issues might be caused. ",
+      "insight_icon": {
+        "id": 2,
+        "storage": "local",
+        "private_hash": "amqbv108wbcckw4g",
+        "filename_disk": "917bafff-4b07-4054-bd31-e16fa2667262.png",
+        "filename_download": "noun_Cause Effect_3502552.png",
+        "title": "Noun Cause Effect 3502552",
+        "type": "image/png",
+        "uploaded_by": 1,
+        "uploaded_on": "2020-11-06T17:01:18+00:00",
+        "charset": "binary",
+        "filesize": 49902,
+        "width": 1200,
+        "height": 1200,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "c85aae2f5277c200a8a730fcc3abd5a8",
+        "metadata": null,
+        "data": {
+          "full_url": "/images/917bafff-4b07-4054-bd31-e16fa2667262.png",
+          "url": "/images/917bafff-4b07-4054-bd31-e16fa2667262.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-small-crop",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-small-contain",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-medium-crop",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-medium-contain",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-large-crop",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-large-contain",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/amqbv108wbcckw4g?key=thumbnail",
+              "relative_url": "/datachallenge_africa/assets/amqbv108wbcckw4g?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      },
+      "insight_title_fr": "Analyse des causes et des effets",
+      "insight_description_fr": "Initiatives pouvant aider les parties prenantes à mieux comprendre les principaux moteurs et conséquences du Covid19. Elles visent à établir quelles variables font une différence pour un problème et si d'autres problèmes peuvent être causés."
+    },
+    {
+      "id": 3,
+      "status": "published",
+      "insight_title": "Prediction",
+      "insight_description": "Initiatives that leverage data to enable new predictive capabilities and allow stakeholders to assess future risks, needs, and opportunities. ",
+      "insight_icon": {
+        "id": 3,
+        "storage": "local",
+        "private_hash": "3s9mqsw59jcwcos0",
+        "filename_disk": "f2e87c0c-be1c-4aef-8bad-8524f0979b93.png",
+        "filename_download": "noun_stocks_3376840.png",
+        "title": "Noun Stocks 3376840",
+        "type": "image/png",
+        "uploaded_by": 1,
+        "uploaded_on": "2020-11-06T17:01:28+00:00",
+        "charset": "binary",
+        "filesize": 78269,
+        "width": 1200,
+        "height": 1200,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "370acb4745ee2f6757d4e52281d1de58",
+        "metadata": null,
+        "data": {
+          "full_url": "/images/f2e87c0c-be1c-4aef-8bad-8524f0979b93.png",
+          "url": "/images/f2e87c0c-be1c-4aef-8bad-8524f0979b93.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-small-crop",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-small-contain",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-medium-crop",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-medium-contain",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-large-crop",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-large-contain",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=thumbnail",
+              "relative_url": "/datachallenge_africa/assets/3s9mqsw59jcwcos0?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      },
+      "insight_title_fr": "Prédiction",
+      "insight_description_fr": "Initiatives qui exploitent les données pour permettre de nouvelles capacités de prédiction et permettre aux parties prenantes d'évaluer les risques, les besoins et les opportunités futurs."
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "insight_title": "Impact assessment",
+      "insight_description": "Initiatives that determine which, whether, and how various interventions meet certain objectives, including the Sustainable Development Goals. They can also seek to understand impediments to certain objectives or the success of particular interventions.",
+      "insight_icon": {
+        "id": 4,
+        "storage": "local",
+        "private_hash": "hv8af88hfa8g408w",
+        "filename_disk": "6e0f48a2-3b55-4b8c-a8b5-2c110fc92230.png",
+        "filename_download": "noun_analyze_2087625.png",
+        "title": "Noun Analyze 2087625",
+        "type": "image/png",
+        "uploaded_by": 1,
+        "uploaded_on": "2020-11-06T17:01:38+00:00",
+        "charset": "binary",
+        "filesize": 59303,
+        "width": 1200,
+        "height": 1200,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "4aae3cdce8999087dc53ed6f29d3c129",
+        "metadata": null,
+        "data": {
+          "full_url": "/images/6e0f48a2-3b55-4b8c-a8b5-2c110fc92230.png",
+          "url": "/images/6e0f48a2-3b55-4b8c-a8b5-2c110fc92230.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-small-crop",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-small-contain",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-medium-crop",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-medium-contain",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-large-crop",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-large-contain",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/hv8af88hfa8g408w?key=thumbnail",
+              "relative_url": "/datachallenge_africa/assets/hv8af88hfa8g408w?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      },
+      "insight_title_fr": "Analyse d'impact",
+      "insight_description_fr": "Initiatives qui déterminent quelles interventions, si et comment diverses interventions répondent à certains objectifs, y compris les objectifs de développement durable. Elles peuvent également chercher à comprendre les obstacles face à certains objectifs ou le succès de certaines interventions."
+    }
+  ],
+  "public": true
+}

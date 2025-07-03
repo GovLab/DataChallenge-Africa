@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "status": "published",
+      "alert_title": "Applications Closed",
+      "description": "<p>Thank you for your interest in the #Data4COVID19 Africa Challenge. The application period is now closed. Watch this space for updates on the awardees.&nbsp;</p>",
+      "button_text": null,
+      "link": null,
+      "live": false,
+      "alert_title_fr": null,
+      "description_fr": "<p><strong><a href=\"https://www.youtube.com/watch?v=vDvV2xfgUZg\">Regardez-vous ici</a>!</strong></p>",
+      "button_text_fr": null,
+      "cookie_banner": false
+    },
+    {
+      "id": 3,
+      "status": "draft",
+      "alert_title": "Cookie banner",
+      "description": "<p>This website uses cookies to optimize your browsing experience and understand how you use and interact with the website. By clicking on &ldquo;I accept&rdquo;, you are consenting to the use of cookies. You can change the settings of your internet browser to disable cookies, but this action may affect your experience on the site.</p>",
+      "button_text": "Learn More",
+      "link": "privacy-policy.html",
+      "live": true,
+      "alert_title_fr": null,
+      "description_fr": null,
+      "button_text_fr": null,
+      "cookie_banner": true
+    }
+  ],
+  "public": true
+}

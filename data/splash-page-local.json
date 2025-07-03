@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "published",
+      "call_out_box": "<p><span style=\"font-weight: 400;\">From December 15, 2020 through February 5,&nbsp; 2021, l'Agence fran&ccedil;aise de d&eacute;veloppement (AFD), together with </span><a href=\"https://www.expertisefrance.fr/\"><span style=\"font-weight: 400;\">Expertise France</span></a><span style=\"font-weight: 400;\"> and </span><a href=\"http://thegovlab.org/\"><span style=\"font-weight: 400;\">The GovLab</span></a><span style=\"font-weight: 400;\">, solicited innovative proposals (re)using data in a collaborative and responsible way to provide actionable intelligence for decision-makers and people to respond to COVID-19 and future pandemic challenges across Africa. </span></p>",
+      "actionable_insights_text": "<p><span style=\"font-weight: 400;\">The ongoing COVID-19 pandemic is a human tragedy, impacting people around the world. The social and economic costs are huge, and they are contributing to a global slowdown affecting every country and community. The African continent, like much of the world, has been badly affected. Besides contributing to the loss of over </span><a href=\"https://www.bbc.com/news/world-51235105\"><span style=\"font-weight: 400;\">50,000 people</span></a><span style=\"font-weight: 400;\">, the pandemic is expected to:&nbsp;</span></p>",
+      "opportunity_text_box": "<p><span style=\"font-weight: 400;\">These are among the facts known. Yet, policymakers need much more detailed analysis and actionable insights to </span><span style=\"font-weight: 400;\">guide their decisions, support actions of huge significance, and monitor their impact.</span></p>\n<p><span style=\"font-weight: 400;\">The prevalence of alternative data, even in traditionally data-sparse countries, and advances in data science </span><span style=\"font-weight: 400;\">provide a unique opportunity to experiment with new </span><a href=\"http://datacollaboratives.org/\"><span style=\"font-weight: 400;\">data collaboratives</span></a><span style=\"font-weight: 400;\"> that bridge data sets, partners and expertise, and stakeholders to generate actionable intelligence and help decision-makers and people navigate this unprecedented crisis.</span></p>",
+      "domains_text": "<p><strong>AFD, together with <a href=\"https://www.expertisefrance.fr/\">Expertise France</a> and <a href=\"http://thegovlab.org/\">The GovLab</a>, is seeking ideas and proposals that (re)use data to provide actionable insight on COVID-19 along the following&nbsp;<a href=\"https://medium.com/data-policy/mapping-how-data-can-help-address-covid19-a7be2e631aec\">domains: </a></strong></p>",
+      "insights_type_text": "<p><strong>Across these domains we are looking for innovative projects and data collaboratives that provide one or more of the following types of insight:</strong></p>",
+      "partners": "<p>Join Us! We are committed to connecting and matching other funders and data holders with powerful data solutions and problem solvers to help flatten the curve and address the impacts of COVID19. Our approach enables foundations, data holders and donor agencies to achieve their social impact ambitions by providing them with the tools and resources to maximize their giving as it relates to COVID19. We give data collaboratives the opportunity to leverage big data while acting responsibly. Together, we can help solve the new Coronavirus and become prepared for the next pandemic. Are you ready to place a big bet on a critical challenge?</p>",
+      "domain_graphic": {
+        "id": 6,
+        "storage": "local",
+        "private_hash": "52xyyj3iivgocss4",
+        "filename_disk": "7afdf822-2c07-400a-805e-4eb115b11589.png",
+        "filename_download": "image1.png",
+        "title": "Image1",
+        "type": "image/png",
+        "uploaded_by": 1,
+        "uploaded_on": "2020-11-06T17:20:42+00:00",
+        "charset": "binary",
+        "filesize": 35688,
+        "width": 352,
+        "height": 329,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "1fca2b3421b7d1ce4cf65fa8f284b48e",
+        "metadata": null,
+        "data": {
+          "full_url": "/images/7afdf822-2c07-400a-805e-4eb115b11589.png",
+          "url": "/images/7afdf822-2c07-400a-805e-4eb115b11589.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-small-crop",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-small-contain",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-medium-crop",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-medium-contain",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-large-crop",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-large-contain",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/52xyyj3iivgocss4?key=thumbnail",
+              "relative_url": "/datachallenge_africa/assets/52xyyj3iivgocss4?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      },
+      "report_url": "/images/request-for-proposals-en.pdf",
+      "apply_now_form": "https://docs.google.com/forms/d/e/1FAIpQLSeFpzXe6eINhglCP042cu1OqMklxv7BRuKgQ9AqN51EY92wiQ/viewform",
+      "call_out_box_fr": "<p><span style=\"font-weight: 400;\">D'ici au 5 f&eacute;vrier 2021, l'Agence fran&ccedil;aise de d&eacute;veloppement (AFD), en collaboration avec <a href=\"https://www.expertisefrance.fr/\">Expertise France </a>et <a href=\"http://thegovlab.org/\">The GovLab</a>, sollicite des propositions innovantes pour (r&eacute;)utiliser les donn&eacute;es de mani&egrave;re collaborative et responsable. L'objectif ? Fournir des renseignements exploitables aux d&eacute;cideurs publics et aux citoyens pour mieux r&eacute;pondre aux d&eacute;fis de la Covid-19 ou d&rsquo;autres pand&eacute;mies en Afrique.</span></p>",
+      "actionable_insights_text_fr": "<p><span style=\"font-weight: 400;\">La pand&eacute;mie actuelle de Covid19 est une trag&eacute;die humaine qui touche les populations du monde entier. Les co&ucirc;ts sociaux et &eacute;conomiques sont &eacute;normes, et ils contribuent &agrave; un ralentissement mondial qui touche tous les pays et toutes les communaut&eacute;s. Le continent africain, comme une grande partie du monde, a &eacute;t&eacute; gravement touch&eacute;. Alors que la barre des </span><a href=\"https://www.bbc.com/news/world-51235105\">50 000 d&eacute;c&egrave;s</a>&nbsp;des suites du Covid-19 a d&eacute;j&agrave; &eacute;t&eacute; d&eacute;pass&eacute;e sur le continent africain, s'attendent &agrave; ce que la pand&eacute;mie continue &agrave; se propager avec de nombreux effets n&eacute;gatifs qui pourraient :</p>",
+      "opportunity_text_box_fr": "<p><span style=\"font-weight: 400;\">Ce sont l&agrave; quelques-uns des faits connus. Pourtant, les d&eacute;cideurs politiques ont besoin d'une analyse beaucoup plus d&eacute;taill&eacute;e et d'id&eacute;es concr&egrave;tes pour </span><span style=\"font-weight: 400;\">guider leurs d&eacute;cisions, soutenir des actions d'une importance consid&eacute;rable et contr&ocirc;ler leur impact.</span></p>\n<p><span style=\"font-weight: 400;\">La pr&eacute;valence des donn&eacute;es alternatives, m&ecirc;me dans les pays traditionnellement pauvres en donn&eacute;es, et les progr&egrave;s de la science des donn&eacute;es </span><span style=\"font-weight: 400;\">offrent une occasion unique d'exp&eacute;rimenter de nouvelles </span><a href=\"http://datacollaboratives.org/\"><span style=\"font-weight: 400;\">collaborations de donn&eacute;es</span></a>.&nbsp;<span style=\"font-weight: 400;\">Il s'agit de rapprocher les ensembles de donn&eacute;es, les partenaires et l'expertise, ainsi que les parties prenantes, afin de g&eacute;n&eacute;rer des renseignements exploitables et d'aider les d&eacute;cideurs et les personnes &agrave; naviguer dans cette crise sans pr&eacute;c&eacute;dent.</span></p>",
+      "domains_text_fr": "<p><strong>L'AFD, en collaboration avec <a href=\"https://www.expertisefrance.fr/\">Expertise France </a>et <a href=\"http://thegovlab.org/\">The GovLab</a>, recherche des id&eacute;es et des propositions qui (r&eacute;)utilisent les donn&eacute;es pour fournir un aper&ccedil;u concret du Covid19 dans <a href=\"https://medium.com/data-policy/mapping-how-data-can-help-address-covid19-a7be2e631aec\">trois domaines</a>, avec les objectifs suivants :</strong></p>",
+      "insights_type_text_fr": "<p><strong>Dans ces domaines, nous recherchons des projets innovants et des collaborations de donn&eacute;es qui fournissent un ou plusieurs des types d'informations : </strong></p>",
+      "partners_fr": "<p><span style=\"font-weight: 400;\">Rejoignez-nous ! Nous nous engageons &agrave; mettre en relation d'autres bailleurs de fonds et d&eacute;tenteurs de donn&eacute;es avec des solutions de donn&eacute;es et desporteurs de projets en mesure de r&eacute;soudre des probl&egrave;mes majeurs. Notre objectif ? Aider &agrave; aplatir la courbe et &agrave; traiter les impacts du Covid19. Notre approche permet aux fondations, aux d&eacute;tenteurs de donn&eacute;es et aux organismes donateurs de r&eacute;aliser leurs ambitions en mati&egrave;re d'impact social. Comment ? En leur fournissant les outils et les ressources n&eacute;cessaires pour maximiser leurs dons en rapport avec le Covid19. Et nous donnons aux experts la possibilit&eacute; d'exploiter des donn&eacute;es importantes tout en agissant de mani&egrave;re responsable. Ensemble, nous pouvons aider &agrave; lutter face au noveau coronavirus et &agrave; nous pr&eacute;parer &agrave; la prochaine pand&eacute;mie. &Ecirc;tes-vous pr&ecirc;t &agrave; parier gros sur un d&eacute;fi aussi crucial ?</span></p>",
+      "report_url_fr": "/images/request-for-proposals-fr.pdf",
+      "apply_now_form_fr": "https://docs.google.com/forms/d/1W_p4gdBbMZCM0rc6ryAKKAhv_QGDq2F59gtHh3AJvBA/edit",
+      "winners_af_map": {
+        "id": 31,
+        "storage": "local",
+        "private_hash": "nn0s9a55xioscsgg",
+        "filename_disk": "ddc840e5-845d-44c0-b5aa-f84e4a7ed3b4.png",
+        "filename_download": "africa.png",
+        "title": "Africa",
+        "type": "image/png",
+        "uploaded_by": 1,
+        "uploaded_on": "2021-04-05T20:39:53+00:00",
+        "charset": "binary",
+        "filesize": 141035,
+        "width": 907,
+        "height": 908,
+        "duration": 0,
+        "embed": null,
+        "folder": null,
+        "description": "",
+        "location": "",
+        "tags": [],
+        "checksum": "9e93b141d7647b0d8cda8bd490a6f082",
+        "metadata": null,
+        "data": {
+          "full_url": "/images/ddc840e5-845d-44c0-b5aa-f84e4a7ed3b4.png",
+          "url": "/images/ddc840e5-845d-44c0-b5aa-f84e4a7ed3b4.png",
+          "thumbnails": [
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-small-crop",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-small-crop",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-small-contain",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-small-contain",
+              "dimension": "64x64",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-medium-crop",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-medium-crop",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-medium-contain",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-medium-contain",
+              "dimension": "300x300",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-large-crop",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-large-crop",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-large-contain",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=directus-large-contain",
+              "dimension": "800x600",
+              "width": 800,
+              "height": 600
+            },
+            {
+              "url": "https://directus.thegovlab.com/datachallenge_africa/assets/nn0s9a55xioscsgg?key=thumbnail",
+              "relative_url": "/datachallenge_africa/assets/nn0s9a55xioscsgg?key=thumbnail",
+              "dimension": "200x200",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "embed": null
+        }
+      },
+      "intro_text": "<p>The Data4COVID19 Africa Challenge is a data challenge hosted by l&rsquo;Agence fran&ccedil;aise de d&eacute;veloppement (AFD), Expertise France, and The GovLab for projects that use data to address COVID-19 and its consequences across Africa.&nbsp;</p>\n<p>Between December 15, 2020 and February 5, 2021, the Challenge. received 83 proposals covering 22 countries.</p>",
+      "intro_text_fr": "<p><span style=\"font-weight: 400;\">Le Challenge de l&rsquo;Afrique #Data4COVID19 est un concours de donn&eacute;es organis&eacute; par l'Agence fran&ccedil;aise de d&eacute;veloppement (AFD), Expertise France et The GovLab. Il s&rsquo;int&eacute;resse &agrave; des projets qui utilisent des donn&eacute;es afin de lutter contre le COVID-19 et ses cons&eacute;quences en Afrique.&nbsp;</span></p>\n<p>Entre le 15 d&eacute;cembre 2020 et le 5 f&eacute;vrier 2021, les organisateurs du Challenge ont re&ccedil;u 83 propositions de projets, couvrant 22 pays.</p>",
+      "winners_text": "After a rigorous review process by the challenge sponsors and data experts from around the world, AFD selected the following lead organizations to support. Regular updates on their progress will be shared here.",
+      "winners_text_fr": "Suite à un processus d’examen rigoureux mené conjointement par les sponsors du Challenge et des experts des données internationaux, l'AFD a décidé de soutenir les organisations porteuses de projet ci-dessous. Les organisateurs de Challenge partageront ici des mises à jour régulières sur l’évolution de ces sept projets.",
+      "additional_thanks": "<p>We&rsquo;d like to thank all those who took the time to propose projects or support organizations proposing projects. Your efforts were greatly appreciated.</p>\n<p>This work also would not have been possible without the input and support of our expert reviewers. We would like to thank:</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 216px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Danny L&auml;mmerhirt (Unaffiliated)</td>\n<td style=\"width: 50%; height: 18px;\">Fredrik Linden (MyData Sweden)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Kat Thownsend (Data.org)</td>\n<td style=\"width: 50%; height: 18px;\">Brett Drury (LIAAD-INESC-TEC, Portugal)</td>\n</tr>\n<tr style=\"height: 36px;\">\n<td style=\"width: 50%; height: 36px;\">Charles Bradley (Global Partners Digital)</td>\n<td style=\"width: 50%; height: 36px;\">Kenneth Houngbedji (French National Research Institute for Sustainable Development)</td>\n</tr>\n<tr style=\"height: 36px;\">\n<td style=\"width: 50%; height: 36px;\">Rachel Sibande (Digital Impact Alliance)</td>\n<td style=\"width: 50%; height: 36px;\">Marc-Arthur Diaye (University of Paris)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Stephen Chacha (Tanzania Data Lab)</td>\n<td style=\"width: 50%; height: 18px;\">Seka Monney Firmin (Synergie Expertise)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Richard Gevers (Open Cities Lab)</td>\n<td style=\"width: 50%; height: 18px;\">Zbigniew Smoreda (Orange Labs)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Karen Bett (GPSDD)</td>\n<td style=\"width: 50%; height: 18px;\">Henrike M. Hirnstein (Juumel)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Emmy Chirchir (FCDO)</td>\n<td style=\"width: 50%; height: 18px;\">Julien Bornon (UNCTAD)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Michael Canares (Step Up Consulting)</td>\n<td style=\"width: 50%; height: 18px;\">Walid Daou (OCP Group)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Muchiri Nyaggah (Local Development Research Institute)</td>\n<td style=\"width: 50%; height: 18px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "additional_thanks_fr": "<p><span style=\"font-weight: 400;\">Nous tenons &agrave; remercier tous ceux qui ont pris le temps de nous communiquer des projets ou de soutenir les organisations qui en ont propos&eacute;. Vos efforts ont &eacute;t&eacute; grandement appr&eacute;ci&eacute;s.</span></p>\n<p><span style=\"font-weight: 400;\">Ce travail n'aurait pas non plus &eacute;t&eacute; possible sans la contribution et le soutien de nos r&eacute;viseurs experts. Nous tenons &agrave; les remercier : </span></p>\n<table style=\"border-collapse: collapse; width: 100%; height: 216px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Danny L&auml;mmerhirt (Unaffiliated)</td>\n<td style=\"width: 50%; height: 18px;\">Fredrik Linden (MyData Sweden)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Kat Thownsend (Data.org)</td>\n<td style=\"width: 50%; height: 18px;\">Brett Drury (LIAAD-INESC-TEC, Portugal)</td>\n</tr>\n<tr style=\"height: 36px;\">\n<td style=\"width: 50%; height: 36px;\">Charles Bradley (Global Partners Digital)</td>\n<td style=\"width: 50%; height: 36px;\">Kenneth Houngbedji (French National Research Institute for Sustainable Development)</td>\n</tr>\n<tr style=\"height: 36px;\">\n<td style=\"width: 50%; height: 36px;\">Rachel Sibande (Digital Impact Alliance)</td>\n<td style=\"width: 50%; height: 36px;\">Marc-Arthur Diaye (University of Paris)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Stephen Chacha (Tanzania Data Lab)</td>\n<td style=\"width: 50%; height: 18px;\">Seka Monney Firmin (Synergie Expertise)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Richard Gevers (Open Cities Lab)</td>\n<td style=\"width: 50%; height: 18px;\">Zbigniew Smoreda (Orange Labs)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Karen Bett (GPSDD)</td>\n<td style=\"width: 50%; height: 18px;\">Henrike M. Hirnstein (Juumel)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Emmy Chirchir (FCDO)</td>\n<td style=\"width: 50%; height: 18px;\">Julien Bornon (UNCTAD)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Michael Canares (Step Up Consulting)</td>\n<td style=\"width: 50%; height: 18px;\">Walid Daou (OCP Group)</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px;\">Muchiri Nyaggah (Local Development Research Institute)</td>\n<td style=\"width: 50%; height: 18px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "request_for_proposals_button": "View the Original Request for Proposals",
+      "request_for_proposals_button_fr": "Voir la demande de propositions originale",
+      "situation_room": "<p>Over the forthcoming weeks, the challenge sponsors will be working with the funded projects to ensure they have the support they need to complete their work. Toward that end, we are assembling an online Situation Room to allow project participants to communicate with one another and other data experts. If you are a data practitioner and would be willing to be a resource to any of the projects listed above, please email us at datastewards@thegovlab.org.</p>",
+      "situation_room_fr": "<p>Au cours des prochaines semaines, les organisateurs du Challenge travailleront avec les projets financ&eacute;s afin de s'assurer qu'ils disposent du soutien n&eacute;cessaire pour mener &agrave; bien leurs travaux. Pour ce faire, nous sommes en train de mettre en place une salle de gestion des projets sur Slack pour permettre aux participants des projets de communiquer entre eux et avec d'autres experts des donn&eacute;es. Si vous &ecirc;tes un expert des donn&eacute;es et que vous souhaitez contribuer &agrave; la mise en &oelig;uvre d'un des projets &eacute;num&eacute;r&eacute;s ci-dessus, veuillez nous envoyer un courriel &agrave;&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer\" data-stringify-link=\"mailto:datastewards@thegovlab.org\" data-sk=\"tooltip_parent\">datastewards@thegovlab.org</a>.</p>"
+    }
+  ],
+  "public": true
+}
